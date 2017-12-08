@@ -2,6 +2,9 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [Unreleased]
+- add ipega 9055 udev rule
+
 ## [17.12.02] - 2017-12-02
 - fixed steam controller service auto start, fixes lag in ES
 
